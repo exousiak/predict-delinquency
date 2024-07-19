@@ -52,7 +52,6 @@
 ## Hyperparameter 전략
 + Lightgbm, XGBoost, CatBoost 경우 조기 중단 예측 파라미터 튜닝 
 + RandomForest와 GradientBoosting 모델은 직접 하이퍼파라미터 튜닝
-+ 최단시간에 최고효율이 나오게끔 함
 
 ## 신용평가 모델 구축 전략
 + DT 모델 기반 변수 중요도 결과 기반 변수 가중치 설정
